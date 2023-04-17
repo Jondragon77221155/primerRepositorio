@@ -1,0 +1,21 @@
+/*Selectores*/
+a
+{
+    background-color: rgb(172, 116, 20);
+    color: hsl(208, 100%, 97%);
+}
+strong
+{
+    color: rgb(87, 4, 87);
+    size: 30px;
+}
+img
+{
+    height: 110px;
+    width: 220px;
+}
+#contenedor
+{
+    border: 3px solid black;
+    background-color: cornflowerblue;
+}
